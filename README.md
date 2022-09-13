@@ -1,15 +1,21 @@
 # Links link
 ## Setup
-* [Join the course formative](TODO)
+* [Join the course formative](https://app.formative.com/join/KD9RUW)
 ## Today's class
-* [formative](TODO)
+* [today's formative](https://app.formative.com/formatives/632087c907fc6801de596aa1)
 * Programming
-  - [PyCP0](TODO)
-  - [JCP0](TODO)
+  - [Instructions](https://docs.google.com/document/d/1rBgzICaPLACJP7zpu-YA508_0QkwCFwhPxXCF4nhqfc/edit?usp=sharing)
+  - [PyCP0](https://replit.com/team/Algos-Block1-2223/JCP0)
+  - [JCP0](https://replit.com/team/Algos-Block1-2223/PyCP0)
 
 
 ![snowflake instructions](files/images/snowflakes.png)
 
 
 ## Extra
-* [Puzzles](TODO)
+* [Puzzles](https://docs.google.com/document/d/1MTP-uutcE8UqrS_ReY1fpH3_UOWqnTOt-C8wUNHJhFo/edit?usp=sharing)
+
+## Resources
+* [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
+* [Learn Java in Y Minutes](https://learnxinyminutes.com/docs/java/)
+* [Anonymous Comment Box](https://forms.gle/yNzRwFg3ZrsuxMpN8)
