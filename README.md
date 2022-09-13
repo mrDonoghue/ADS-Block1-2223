@@ -5,8 +5,8 @@
 * [today's formative](https://app.formative.com/formatives/632087c907fc6801de596aa1)
 * Programming
   - [Instructions](https://docs.google.com/document/d/1rBgzICaPLACJP7zpu-YA508_0QkwCFwhPxXCF4nhqfc/edit?usp=sharing)
-  - [PyCP0](https://replit.com/team/Algos-Block1-2223/JCP0)
-  - [JCP0](https://replit.com/team/Algos-Block1-2223/PyCP0)
+  - [PyCP0](https://replit.com/team/Algos-Block1-2223/PyCP0)
+  - [JCP0](https://replit.com/team/Algos-Block1-2223/JCP0)
 
 
 ![snowflake instructions](files/images/snowflakes.png)
