@@ -1,0 +1,38 @@
+## Big reminders:
+* no semi-colons
+* where you would have done something like `blah {...}` in Java, do `blah:` followed by an *indented* block of code
+* `True` and `False` are capital in Python
+
+
+## Conditionals
+```python
+if grade >= 90:
+    print("A")
+elif grade >= 80:
+    print("B")
+elif grade >= 70"
+    print("C")
+elif grade > 65:
+    print("D")
+else:
+    print("F")
+```
+
+## Loops
+* Try to use for loops whenever possible
+* Python for loops iterate over a collection
+* some common cases assuming `l` is a list
+
+```python
+for item in l: # item will be an item in l
+    print(item)
+
+for i in range(len(l)):
+    print(i, l[i])
+
+for i,item in enumerate(l):
+    print(item)
+
+for i in range(10, 100):
+    print(i)
+```
