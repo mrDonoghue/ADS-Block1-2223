@@ -18,6 +18,7 @@
 * [Puzzles](https://docs.google.com/document/d/1MTP-uutcE8UqrS_ReY1fpH3_UOWqnTOt-C8wUNHJhFo/edit?usp=sharing)
 
 ## Resources
+* [Course wiki](https://github.com/mrDonoghue/ADS-Block1-2223/wiki)
 * [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn Java in Y Minutes](https://learnxinyminutes.com/docs/java/)
 * [Anonymous Comment Box](https://forms.gle/yNzRwFg3ZrsuxMpN8)
