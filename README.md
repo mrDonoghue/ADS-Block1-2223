@@ -11,6 +11,8 @@
 
 ![snowflake instructions](files/images/snowflakes.png)
 
+* [Compound Words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing)
+
 
 ## Extra
 * [Puzzles](https://docs.google.com/document/d/1MTP-uutcE8UqrS_ReY1fpH3_UOWqnTOt-C8wUNHJhFo/edit?usp=sharing)
