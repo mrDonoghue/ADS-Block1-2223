@@ -3,13 +3,15 @@
 ## Today's class summary
 * Sorting!!
 * Finish Fast snowflakes or it's HOMEWORK
-* Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing) or help peers for extra credit
+  * Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing) or help peers for extra credit
 
 ## Today's class links
 * [Sorting Challenge 0](https://www.advanced-ict.info/interactive/sorting_balance.html)
 * [Sorting Challenge 1](https://replit.com/@mrDonoghue/sortingDemo)
 * [Today's formative](https://app.formative.com/formatives/633c66d87f934d30b763f20c)
-* Snowflake/Compound time
+* Sorting repls: [Python](https://replit.com/team/Algos-Block1-2223/SortingPy) or [Java]https://replit.com/team/Algos-Block1-2223/SortingJ)
+
+
 ## Snowflake(s)
 * Snowflake checklist:
   - `twinsPresent()` using `snowflake_equals`
