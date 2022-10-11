@@ -1,18 +1,17 @@
 # Links link
 
 ## Today's class summary
-* Sorting!!
 * Finish Fast snowflakes or it's HOMEWORK
-  * Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing) or help peers for extra credit
+* Sorting
 
 ## Today's class links
-* [Sorting Challenge 0](https://www.advanced-ict.info/interactive/sorting_balance.html)
-* [Sorting Challenge 1](https://replit.com/@mrDonoghue/sortingDemo)
-* [Today's formative](https://app.formative.com/formatives/633c66d87f934d30b763f20c)
-* Sorting repls: [Python](https://replit.com/team/Algos-Block1-2223/SortingPy) or [Java]https://replit.com/team/Algos-Block1-2223/SortingJ)
+* Go to our [course replit team](https://replit.com/team/Algos-Block1-2223) and join a group for [SortPy](https://replit.com/team/Algos-Block1-2223/SortPy) or [SortJ](https://replit.com/team/Algos-Block1-2223/SortJ). You MUST get approval from me to work alone.
+* [sorting wiki page](https://github.com/mrDonoghue/ADS-Block1-2223/wiki/Sorting)
 
 
 ## Snowflake(s)
+* Repls: [PyCP0](https://replit.com/team/Algos-Block1-2223/PyCP0) or [JCP0](https://replit.com/team/Algos-Block1-2223/JCP0)
+  * Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing) or help peers for extra credit
 * Snowflake checklist:
   - `twinsPresent()` using `snowflake_equals`
   - `snowflake_equals` using `snowflake_equals_offset`
@@ -20,7 +19,6 @@
   - code that handles user input, calling `twinsPresent`, and output
   - `twinsPresentFast()` which uses a dictionary/hash table/HashMap to bucket snowflakes
   - change the block of code that actually runs things to use `twinsPresentFast()` instead of `twinsPresent`
-* Repl: [PyCP0](https://replit.com/team/Algos-Block1-2223/PyCP0) or [JCP0](https://replit.com/team/Algos-Block1-2223/JCP0)
 ![snowflake instructions](files/images/snowflakes.png)
 
 
