@@ -1,11 +1,11 @@
 # Links link
 
 ## Today's class summary
-* Finish Fast snowflakes or it's HOMEWORK
 * Sorting
 
 ## Today's class links
-* Go to our [course replit team](https://replit.com/team/Algos-Block1-2223) and join a group for [SortPy](https://replit.com/team/Algos-Block1-2223/SortPy) or [SortJ](https://replit.com/team/Algos-Block1-2223/SortJ). You MUST get approval from me to work alone.
+* [SortPy](https://replit.com/team/Algos-Block1-2223/SortPy)
+* [SortJ](https://replit.com/team/Algos-Block1-2223/SortJ).
 * [sorting wiki page](https://github.com/mrDonoghue/ADS-Block1-2223/wiki/Sorting)
 
 
