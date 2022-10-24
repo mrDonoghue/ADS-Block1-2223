@@ -19,7 +19,7 @@
 
 
 ## Plotting
-Open the [SortingPlotting](https://replit.com/team/Algos-Block3-2223/SortingPlotting) repl
+Open the [SortingPlotting](https://replit.com/team/Algos-Block1-2223/SortingPlotting) repl
 # How to use my plotting code
 * Create a file for each plotline you want in the plot
   * the name of the file before the extension will be used as the label in the legend of the plot
