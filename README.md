@@ -4,6 +4,7 @@
 * Sorting
 
 ## Today's class links
+* [Reflection](https://forms.gle/fN5KmD3N9LceJoGQ8)
 * [SortPy](https://replit.com/team/Algos-Block1-2223/SortPy)
 * [SortJ](https://replit.com/team/Algos-Block1-2223/SortJ).
 * [sorting wiki page](https://github.com/mrDonoghue/ADS-Block1-2223/wiki/Sorting)
