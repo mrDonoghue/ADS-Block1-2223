@@ -2,26 +2,22 @@
 
 ## Today's class summary
 * Sorting
+* Sorting Experiments
 
 ## Today's class links
+* Sorting
+  * If your group has done at least one of sort3/sort4, DO NOT CONTINUE WITH SORTING. Skip to Experiments bullet below
+  * [SortPy](https://replit.com/team/Algos-Block1-2223/SortPy)
+  * [SortJ](https://replit.com/team/Algos-Block1-2223/SortJ).
+  * [sorting wiki page](https://github.com/mrDonoghue/ADS-Block1-2223/wiki/Sorting)
+* Experiments
+  * [Instructions](files/Experiments.md)
+
+
+## Old
 * [Reflection](https://forms.gle/fN5KmD3N9LceJoGQ8)
-* [SortPy](https://replit.com/team/Algos-Block1-2223/SortPy)
-* [SortJ](https://replit.com/team/Algos-Block1-2223/SortJ).
-* [sorting wiki page](https://github.com/mrDonoghue/ADS-Block1-2223/wiki/Sorting)
-* [Experiments](files/Experiments.md)
+* [Snowflakes](files/Snowflakes.md)
 
-
-## Snowflake(s)
-* Repls: [PyCP0](https://replit.com/team/Algos-Block1-2223/PyCP0) or [JCP0](https://replit.com/team/Algos-Block1-2223/JCP0)
-  * Do [compound words](https://drive.google.com/file/d/1Qx_vrkcOu3803fS9zZDjmSJVgvD-ZpVQ/view?usp=sharing) or help peers for extra credit
-* Snowflake checklist:
-  - `twinsPresent()` using `snowflake_equals`
-  - `snowflake_equals` using `snowflake_equals_offset`
-  - `snowflake_equals_offset`
-  - code that handles user input, calling `twinsPresent`, and output
-  - `twinsPresentFast()` which uses a dictionary/hash table/HashMap to bucket snowflakes
-  - change the block of code that actually runs things to use `twinsPresentFast()` instead of `twinsPresent`
-![snowflake instructions](files/images/snowflakes.png)
 
 
 
